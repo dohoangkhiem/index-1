@@ -3,7 +3,7 @@
   "description" : "Just a dummy package",
   "repository" : {
     "type" : "git",
-    "branch" : "master",
+    "branch" : "new-actions",
     "url" : "git@bitbucket.org:dohoangkhiem/dummy_pkg.git",
     "devel" : { },
     "head" : { },
