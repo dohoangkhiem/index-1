@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "git",
     "branch" : "new-actions",
-    "url" : "https://bitbucket.org/dohoangkhiem/dummy_pkg/get/f82ec69f897b.zip",
+    "url" : "git@bitbucket.org:dohoangkhiem/dummy_pkg.git",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
