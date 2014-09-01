@@ -3,12 +3,12 @@
   "description" : "Just a dummy package",
   "repository" : {
     "type" : "git",
-    "revision" : "d41e14d21c99eded2f5b4c69bfcce3cfff5a1912",
+    "revision" : "8ac6d21e63b3b884722d17dea83779784b46fd18",
     "url" : "git@bitbucket.org:dohoangkhiem/dummy_pkg.git",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
-    "sha1" : "d41e14d21c99eded2f5b4c69bfcce3cfff5a1912",
+    "sha1" : "8ac6d21e63b3b884722d17dea83779784b46fd18",
     "dependencies" : { }
   },
   "company" : "Automic Software GmbH",
