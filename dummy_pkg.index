@@ -2,8 +2,8 @@
   "name" : "DUMMY_PKG",
   "description" : "Just a dummy package",
   "repository" : {
-    "type" : "http",
-    "branch" : "master",
+    "type" : "git",
+    "branch" : "new-actions",
     "url" : "https://bitbucket.org/dohoangkhiem/dummy_pkg/get/f82ec69f897b.zip",
     "devel" : { },
     "head" : { },
